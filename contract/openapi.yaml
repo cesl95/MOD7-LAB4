@@ -218,4 +218,4 @@ components:
           description: "Descripción detallada del error"
         instance:
           type: string
-          description: "URI de la instancia del error" 
+          description: "URI de la instancia del error"
